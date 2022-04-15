@@ -1,7 +1,7 @@
 module.exports = {
 	name: "charlesharri.es", // optional, falls back to object key
 	description: "Charles Harries's personal site",
-	skip: false
+	skip: false,
 	options: {
 		frequency: 60 * 23, // 23 hours
 		// Use "run" if the sites don’t share assets on the same origin
